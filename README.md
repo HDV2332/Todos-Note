@@ -1,4 +1,4 @@
-## Ứng dụng ghi nhớ đầu công việc
+## Website ghi nhớ đầu công việc
 Sử dụng Javascript, HTML và CSS. 
 
 ### Các tính năng chính
